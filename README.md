@@ -12,16 +12,18 @@
 - 💬 Ask me about Design, Dev & Tech.
 
 ## Let's Connect:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Santosh Jaiswal | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Santosh Jaiswal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Santosh Jaiswal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Santosh Jaiswal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Santosh Jaiswal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 [website]: https://SantoshJaiswal.com.np
 [twitter]: https://twitter.com/dgnrsj
 [youtube]: https://youtube.com/SantoshJaiswal
 [linkedin]: https://linkedin.com/in/dgnrsj
+[instagram]: https://www.instagram.com/dgnrsj
 
 ## 👨‍💻Some of my go-to weapons...
 
