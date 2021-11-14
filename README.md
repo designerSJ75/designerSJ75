@@ -44,7 +44,7 @@
 
 ## Mostly Used Languages:
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=simantabaral&layout=compact&theme=green-white)](https://github.com/simantabaral)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=designerSJ75&layout=compact&theme=green-white)](https://github.com/designerSJ75)
 
 <!--
 **designerSJ75/designerSJ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
