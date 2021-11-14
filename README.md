@@ -25,7 +25,7 @@
 [linkedin]: https://linkedin.com/in/dgnrsj
 [instagram]: https://www.instagram.com/dgnrsj
 
-## 👨‍💻Some of my go-to weapons...
+## 👨‍💻Languages & Tools:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
