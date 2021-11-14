@@ -45,7 +45,7 @@
 
 [![Santosh Jaiswal' Github Stats](https://github-readme-stats.vercel.app/api?username=designerSJ75&count_private=true&theme=default&show_icons=true)](https://github.com/designerSJ75)
 
-## Mostly Used Languages:
+## Top Most Used Languages:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=designerSJ75&layout=compact&theme=green-white)](https://github.com/designerSJ75)
 
