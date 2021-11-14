@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### 🙏Namaste, Hi there 👋
+I'm Motion & Graphics Designer | Video Editor | Edutainer @dgnrsj
+- 🔭 I’m currently working as Freelancer.
+- 🌱 I’m currently learning Advanced Motion Designing & Filmmaking.
+- 👯 I’m looking to collaborate on any web development projects.
+- 🤔 I’m looking for help with full Stack Development.
+- 💬 Ask me about Design, Dev & Tech.
 <!--
 **designerSJ75/designerSJ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
