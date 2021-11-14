@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with Full Stack Development.
 - 💬 Ask me about Design, Dev & Tech.
 
-## Let's Connect:
+## 🔗 Let's Connect:
 [<img align="left" alt="Santosh Jaiswal | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Santosh Jaiswal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Santosh Jaiswal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -25,7 +25,7 @@
 [linkedin]: https://linkedin.com/in/dgnrsj
 [instagram]: https://www.instagram.com/dgnrsj
 
-## 👨‍💻Languages & Tools:
+## 👨‍💻 Languages & Tools:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -41,7 +41,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <br />
 
-## Github Stats
+## Github Stats:
 
 [![Santosh Jaiswal' Github Stats](https://github-readme-stats.vercel.app/api?username=designerSJ75&count_private=true&theme=default&show_icons=true)](https://github.com/designerSJ75)
 
