@@ -6,9 +6,9 @@
 
 ### Motion & Graphics Designer | Video Editor | Edutainer @dgnrsj
 - 🔭 I’m currently working as Freelancer.
-- 🌱 I’m currently learning Advanced Motion Designing & Filmmaking.
+- 🌱 I’m currently learning Web Dev, Motion Designing & Filmmaking.
 - 👯 I’m looking to collaborate on any web development projects.
-- 🤔 I’m looking for help with full Stack Development.
+- 🤔 I’m looking for help with Full Stack Development.
 - 💬 Ask me about Design, Dev & Tech.
 
 ## Let's Connect:
