@@ -2,7 +2,7 @@
 [![Twitter: dgnrsj](https://img.shields.io/twitter/follow/dgnrsj?style=social)](https://twitter.com/dgnrsj)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=designerSJ75.designerSJ75)](https://github.com/designerSJ75)
 [![GitHub designerSJ75](https://img.shields.io/github/followers/designerSJ75?label=follow&style=social)](https://github.com/designerSJ75)
-[![LinkedIn: Santosh Jaiswal](https://img.shields.io/badge/dgnrsj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgnrsj/)](https://www.linkedin.com/in/dgnrsj/)
+[![LinkedIn: Santosh Jaiswal](https://img.shields.io/badge/Santosh Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgnrsj/)](https://www.linkedin.com/in/dgnrsj/)
 
 I'm Motion & Graphics Designer | Video Editor | Edutainer @dgnrsj
 - 🔭 I’m currently working as Freelancer.
