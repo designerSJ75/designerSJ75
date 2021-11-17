@@ -37,8 +37,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <br />
 
 ## Github Stats:
@@ -60,6 +61,7 @@
 - [Social Media Security--Patan HSS | Code for Change](https://www.youtube.com/watch?v=SFZCcHICU5c)
 - [Sound &amp; Vibration Healing Therapy | Nepal Product | Santosh Jaiswal Vlog](https://www.youtube.com/watch?v=Zk64RZ4eNas)
 <!-- YOUTUBE:END -->
+➡️ [more videos...](https://youtube.com/SantoshJaiswal)
 <!--
 **designerSJ75/designerSJ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
