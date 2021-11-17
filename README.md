@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on any web development projects.
 - 🤔 I’m looking for help with Full Stack Development.
 - 💬 Ask me about Design, Dev & Tech.
-
+---
 ## 🔗 Let's Connect:
 [<img align="left" alt="Santosh Jaiswal | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Santosh Jaiswal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -25,6 +25,7 @@
 [linkedin]: https://linkedin.com/in/dgnrsj
 [instagram]: https://www.instagram.com/dgnrsj
 
+---
 ## 👨‍💻 Languages & Tools:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -42,6 +43,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <br />
 
+---
+
 ## Github Stats:
 
 [![Santosh Jaiswal' Github Stats](https://github-readme-stats.vercel.app/api?username=designerSJ75&count_private=true&theme=default&show_icons=true)](https://github.com/designerSJ75)
@@ -49,6 +52,8 @@
 ## Top Most Used Languages:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=designerSJ75&layout=compact&theme=green-white)](https://github.com/designerSJ75)
+
+---
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
