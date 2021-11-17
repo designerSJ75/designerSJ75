@@ -51,6 +51,14 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Devanagari/Nepali/Hindi Typing in Photoshop Best way &amp; More&lpar;#Typography&rpar; | Santosh Jaiswal #dgnrsj](https://www.youtube.com/watch?v=KCz4JHqwSxI)
+- [Motion Poster for Social Media | Photoshop | Premiere Pro | Santosh Jaiswal](https://www.youtube.com/watch?v=QssMgGong2c)
+- [🔥Movie Motion Poster for Social Media. | Photoshop | Premiere Pro | Santosh Jaiswal](https://www.youtube.com/watch?v=vLZwtnLAxoA)
+- [Product advertisement Video | Ad Video | Promo Video | Motion Banner| Premiere Pro | After Effect](https://www.youtube.com/watch?v=UZorv-BvSNc)
+- [Wedding Video | Promo Video | Motion Poster | Photoshop | Premiere Pro | Nepal Wedding | Nepali](https://www.youtube.com/watch?v=pD2wT3R4pYo)
+- [Virtual Springboard | Code for Change | Adobe Illustrator by Santosh Jaiswal](https://www.youtube.com/watch?v=we37C0w5oLo)
+- [Social Media Security--Patan HSS | Code for Change](https://www.youtube.com/watch?v=SFZCcHICU5c)
+- [Sound &amp; Vibration Healing Therapy | Nepal Product | Santosh Jaiswal Vlog](https://www.youtube.com/watch?v=Zk64RZ4eNas)
 <!-- YOUTUBE:END -->
 <!--
 **designerSJ75/designerSJ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
