@@ -66,6 +66,16 @@
 - [Sound &amp; Vibration Healing Therapy | Nepal Product | Santosh Jaiswal Vlog](https://www.youtube.com/watch?v=Zk64RZ4eNas)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/SantoshJaiswal)
+##
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 <!--
 **designerSJ75/designerSJ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -80,4 +90,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
