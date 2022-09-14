@@ -1,5 +1,5 @@
 # 🙏Namaste, Hi there 👋 I'm [Santosh Jaiswal](https://instagram.com/dgnrsj)
-[![Twitter: Santosh Jaiswal](https://img.shields.io/twitter/follow/dgnrsj?style=social)](https://twitter.com//dgnrsj)
+[![Twitter: Santosh Jaiswal](https://img.shields.io/twitter/follow/dgnrsj?style=social)](https://twitter.com/dgnrsj)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=designerSJ75.designerSJ75)](https://github.com/designerSJ75)
 [![GitHub designerSJ75](https://img.shields.io/github/followers/designerSJ75?label=follow&style=social)](https://github.com/designerSJ75)
 [![LinkedIn: Santosh Jaiswal](https://img.shields.io/badge/SantoshJaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgnrsj/)](https://www.linkedin.com/in/dgnrsj/)
