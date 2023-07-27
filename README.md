@@ -4,7 +4,7 @@
 [![GitHub designerSJ75](https://img.shields.io/github/followers/designerSJ75?label=follow&style=social)](https://github.com/designerSJ75)
 [![LinkedIn: Santosh Jaiswal](https://img.shields.io/badge/SantoshJaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgnrsj/)](https://www.linkedin.com/in/dgnrsj/)
 
-### Motion & Graphics Designer | Video Editor | Edutainer @dgnrsj
+### Motion & Graphics Designer | Video Editor | Edutainer
 - 🔭 I’m currently working as Freelancer.
 - 🌱 I’m currently learning Web Dev, Motion Designing & Filmmaking.
 - 👯 I’m looking to collaborate on any web development projects.
